@@ -5,6 +5,13 @@ This is a facebook bot that is used to automate the tasks such as:
 3. Updates account status (text based)
 4. Open timeline of a random freind and coments on the recent post
 
+For the project, a dummy account has been registered with the facebook with username as Proto Bot. 
+
+# Libraries Used
+1.	Selenium
+2.	Time
+
+
 # Use instructions
 This is a jupyter notebook file with .ipynb extension. You can use the bot by following the instructions below
 1. Open Jupyter notebook from Anaconda
